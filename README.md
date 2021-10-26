@@ -1,2 +1,2 @@
 # github-demo
-Learned about github
+Learned about Git, GitHub, VCS, DVCS
